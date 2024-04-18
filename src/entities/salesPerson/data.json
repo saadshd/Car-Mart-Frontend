@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad Imtiaz",
+    "cnic": 36604567892373,
+    "address": "Rawalpindi",
+    "contact": 3359876543,
+    "image": "https://source.unsplash.com/mens-gray-crew-neck-shirt-v2aKnjMbP_k"
+  },
+  {
+    "id": 2,
+    "name": "Muhammad Ibrahim",
+    "cnic": 3660309876543,
+    "address": "Lahore",
+    "contact": 3345678280,
+    "image": "https://source.unsplash.com/man-in-green-crew-neck-shirt-and-black-hat-pUhxoSapPFA"
+  },
+  {
+    "id": 3,
+    "name": "Zarnab",
+    "cnic": 366030987654,
+    "address": "Islamabad",
+    "contact": 33512345674,
+    "image": "https://source.unsplash.com/man-in-black-suit-jacket-6GgCyNnF6Zs"
+  },
+  {
+    "id": 4,
+    "name": "Ali Ahmad",
+    "cnic": 3660334560473,
+    "address": "Khanewal",
+    "contact": 3350987654,
+    "image": "https://source.unsplash.com/man-wearing-green-collared-top-EPi3TRQc5Z0"
+  }
+]

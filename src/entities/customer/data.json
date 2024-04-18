@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad Saad Shahid",
+    "cnic": 3660347880473,
+    "address": "Vehari",
+    "contact": "03357735290",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09870"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Muhammad Khubaib",
+    "cnic": 3660347678473,
+    "address": "Lahore",
+    "contact": "03357735280",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09871"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shahid Mahmood",
+    "cnic": 3660347880978,
+    "address": "Islamabad",
+    "contact": "03357798290",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09873"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ali Sher",
+    "cnic": 3660334560473,
+    "address": "Khanewal",
+    "contact": "03359877650",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09874"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Usman",
+    "cnic": 3236784560473,
+    "address": "Rawalpindi",
+    "contact": "03099876290",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09875"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ali Sher",
+    "cnic": 3660345560473,
+    "address": "Peshawar",
+    "contact": "03357643290",
+    "purchaseHistory": [
+      {
+        "chasisNo": "CN09876",
+        "purchaseDate": "123"
+      },
+      {
+        "chasisNo": "CN09877",
+        "purchaseDate": "321"
+      }
+    ]
+  }
+]
