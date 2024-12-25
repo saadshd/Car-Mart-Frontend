@@ -35,12 +35,6 @@ To run the Car Mart Frontend locally, follow these steps:
     npm install
     ```
 
-    or
-
-    ```bash
-    yarn install
-    ```
-
 3. **Set Up Environment Variables**: Create a `.env` file in the root of the project and add the necessary environment variables, such as API endpoint URLs.
 
 4. **Start the Development Server**: Once the dependencies are installed, start the development server using the following command:
@@ -48,13 +42,7 @@ To run the Car Mart Frontend locally, follow these steps:
     ```bash
     npm start
     ```
-
-    or
-
-    ```bash
-    yarn start
-    ```
-
+    
 5. **Access the Application**: Open your web browser and navigate to `http://localhost:3000` to access the Car Mart Frontend.
 
 ## Contributing
